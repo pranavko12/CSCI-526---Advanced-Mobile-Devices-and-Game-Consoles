@@ -1,4 +1,6 @@
-# Course Description:
+# CSCI-526 -- Advanced-Mobile-Devices-and-Game-Consoles
+
+## Course Description:
 In CSCI 526, we work in small teams to build games for either mobile or desktop. The first half of the class is all about learning game development tools and figuring out how to use them effectively. From there, we collaborate using programming, art, design, and production skills to bring ideas to life. The second half shifts toward polishing and expanding our games.
 
 The course feels like working in a real studio. Each of us takes on roles like Designer, Engineer, Producer, and more, so we not only learn the basics of those positions but also how they fit together in a professional team. Along the way, we create game pitches, write design documents, and present them live. By the end, we’ve built a polished, portfolio-ready vertical slice supported by professional-quality documentation.
