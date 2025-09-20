@@ -1,0 +1,28 @@
+Logline: A 3D-puzzle game where you jump between multiple NPC perspectives to traverse a level and escape a room within a given time limit.
+
+Prototype Build:
+https://adhoc10.github.io/Soul-Shift/
+
+Youtube link:
+https://www.youtube.com/watch?v=qjKG12CKoqg
+
+GDD:
+https://docs.google.com/document/d/1vaouCL6Q-H76kIn12D6VZVck2pD2GhlI5yoh28ETssg/edit
+
+Genre: Puzzle 
+
+Twist:
+Our game removes the free movement mechanic to escape a level. The game revolves around switching first-person perspectives between NPCs to explore the room and escape a level.
+
+Description:
+Soul Shift is a 3D-puzzle game featuring a distinctive perspective switch mechanic. As the player, the goal is to reach the end door within a time limit. The player can see multiple moving NPCs that traverse a fixed path. Players can jump to these NPCs and possess them. When an NPC is possessed their movement is stopped but the player can view their surroundings in all directions to determine which NPC to jump to next. When the player possesses an NPC, the Euclidean distance from the final destination is displayed. This information tells the player which direction to head in next and what the most optimal solution to escaping will be. 
+
+Controls:
+A,D keys: look around
+Mouse Click: Select the NPC
+Spacebar: Possess the NPC
+
+Contributions:
+Aaron Dsouza: Perspective Change Mechanism, Object Selection, Win Conditions
+Pranav Kolhe: NPC Movement, Timer countdown
+Shalini Sai Prasad: Level Design, Exit Tracking.
